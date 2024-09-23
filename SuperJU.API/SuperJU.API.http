@@ -1,0 +1,6 @@
+@SuperJU.API_HostAddress = http://localhost:5083
+
+GET {{SuperJU.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
