@@ -92,10 +92,6 @@ Para perguntas ou sugestões, entre em contato:
 - [ ] Melhorar a interface do usuário.
 - [ ] Integrar com plataformas de pagamento.
 
-## Status do Projeto
-
-Atualmente, o projeto está em fase de desenvolvimento e melhorias estão sendo realizadas continuamente. Fique atento para atualizações e novas funcionalidades!
-
 ---
 
 Obrigado por conferir o projeto **SuperJU**! Esperamos que ele seja útil para você!
