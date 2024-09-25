@@ -75,7 +75,7 @@ Contribuições são bem-vindas! Para sugerir melhorias ou relatar problemas, ab
 
 ## Créditos e Agradecimentos
 
-Este projeto foi desenvolvido como parte do curso de formação em **.NET** oferecido pela **ATOS**, em parceria com a **Unicesumar**. Agradeço a oportunidade de aprendizado e desenvolvimento prático proporcionada por ambas as instituições. Um agradecimento especial também aos colegas que contribuíram durante o processo de desenvolvimento.
+Este projeto foi desenvolvido como parte do curso de formação em **.NET** oferecido pela **ATOS**, em parceria com a **Unicesumar**. Agradeço a oportunidade de aprendizado e desenvolvimento prático proporcionada por ambas as instituições. Um agradecimento especial também aos colegas que contribuíram durante o processo de formação e desenvolvimento.
 
 ## Contato
 
